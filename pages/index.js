@@ -32,20 +32,20 @@ export default function Home() {
             <h1>{db.title}</h1>
           </Widget.Header>
           <Widget.Content>
-            <p>Aqui vai oq vai escrito nisso</p>
+            <p>{db.description}</p>
           </Widget.Content>
         </Widget>
         <Widget>
         <Widget.Header>
-          <h1>Titulo aqui </h1>
+          <h1>{db.title}</h1>
         </Widget.Header>
         <Widget.Content>
-          <p>Aqui vai oq vai escrito nisso</p>
+          <p>{db.description}</p>
         </Widget.Content>
         </Widget>
         <Footer />
       </QuizContainer>
-      <GitHubCorner />
+      <GitHubCorner projectUrl="https://github.com/holodniak"/>
     </QuizBackground>
   )
 }
