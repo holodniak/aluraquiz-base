@@ -1,12 +1,12 @@
 {
     "bg": "https://hdwallpaperim.com/wp-content/uploads/2017/08/24/113377-HTML-programming-code-blue-simplicity.jpg",
     "title": "Quiz de HTML",
-    "description": "Desafie os seus amigos com um Quis de HTML!",
+    "description": "Desafie os seus amigos com um Quiz de HTML!",
     "questions": [
       {
         "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
         "title": "Quiz de HTML",
-        "description": "Desafie os seus amigos com um Quis de HTML!",
+        "description": "Desafie os seus amigos com um Quiz de HTML!",
         "answer": 2,
         "alternatives": [
           ".elemento",
